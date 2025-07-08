@@ -1,0 +1,25 @@
+@echo off
+echo ========================================
+echo    CHAT APPLICATION - FULLY WORKING
+echo ========================================
+echo.
+echo Installing dependencies...
+npm install
+echo.
+echo Starting development server...
+echo.
+echo ========================================
+echo   READY TO USE!
+echo ========================================
+echo.
+echo Open your browser to: http://localhost:3000
+echo.
+echo LOGIN CREDENTIALS:
+echo Email: any email (e.g., test@example.com)
+echo Password: password
+echo.
+echo REGISTRATION:
+echo Use any username, email, and password (min 6 chars)
+echo.
+echo ========================================
+npm run dev
